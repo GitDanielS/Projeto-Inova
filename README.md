@@ -1,2 +1,2 @@
-#Projeto Inova
+
 Este projeto hospedado no GitHub representa um site fictício desenvolvido em PHP puro, criado no ambiente do Xampp, Vscode e phpMyAdmin. Utilizando o framework Tailwind e o pacote de componentes Flowbite para design e estilização, além do banco de dados MySql. A principal finalidade é estabelecer uma plataforma esteticamente atraente para ampliar a visibilidade e aumentar a adoção responsável de animais abandonados.
