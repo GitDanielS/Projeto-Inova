@@ -25,7 +25,7 @@ Este repositório é dedicado a um site fictício de adoção de animais abandon
 
 1. Clone o repositório.
 2. Configure o ambiente Xampp e MySql.
-3. Importe o banco de dados utilizando o arquivo fornecido (`dump.sql`).
+3. Importe o banco de dados utilizando o arquivo fornecido (`projetoinova.sql`).
 4. Inicie o servidor local.
 5. Acesse o projeto via `http://localhost/nome-do-projeto`.
 
