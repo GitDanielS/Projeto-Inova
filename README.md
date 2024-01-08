@@ -5,7 +5,7 @@ Este repositório é dedicado a um site fictício de adoção de animais abandon
 ## Funcionalidades
 
 - Apresenta uma interface intuitiva para visualização e adoção de animais abandonados.
-- Utiliza Tailwind e Flowbite para criar um design moderno.
+- Foi utilizado Tailwind e Flowbite para criar um design moderno.
 - Integração com MySql para gerenciar informações sobre animais e usuários.
 
 ## Tecnologias Utilizadas
